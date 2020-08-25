@@ -1,2 +1,0 @@
-# svelte-faunadb
-Begin app
